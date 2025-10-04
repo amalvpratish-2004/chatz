@@ -25,7 +25,7 @@ It allows users to chat securely, share images, and stay connected with real-tim
 - 🟢 **Online Presence** → Who’s online indicator  
 - 📜 **Chat History** → Messages stored in MongoDB  
 - 📱 **Responsive Design** → Works seamlessly on desktop & mobile  
-- ☁️ **Cloud Deployment** → Fully hosted on Render  
+- ☁️ **Cloud Deployment** → Fully hosted on Render - Link = https://chatz-jspr.onrender.com 
 
 ---
 
